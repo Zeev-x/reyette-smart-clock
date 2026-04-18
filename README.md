@@ -18,3 +18,6 @@
 | SD CLK   | 18       |
 | SD MISO  | 19       |
 | Button   | 0        |
+
+## Source code
+* [Github Zeev-x smart clock v2](https://github.com/Zeev-x/smart-clock-esp32-v2)
